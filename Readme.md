@@ -13,5 +13,7 @@
 
 <h3># 💻 Tech Stack:</h3>
 
+![Static Badge](https://img.shields.io/badge/Python?logo=%233776AB&logoColor=%2333CC66)
+
 
 
