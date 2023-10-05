@@ -13,8 +13,7 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekaleves@gmail.com?subject=[GitHub])
 
 <h3># 💻 Tech Stack:</h3>
-
-![Python](https://img.shields.io/badge/Python0077B5?style=for-the-badge&logo=python&logoColor=white&label=Python&labelColor=whitw&color=3333FF)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
