@@ -12,7 +12,7 @@
 
 <h3># 💻 Tech Stack:</h3>
 
-![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Python](https://img.shields.io/badge/Python?logoColor=%2333CC66)
 ![OOP](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![JSON](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
