@@ -6,6 +6,7 @@
 </br>
 
 <h3># 💁🏽‍♂️ Find me on:</h3>
+GET /badge/:badgeContent
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikaleves/) 
 
