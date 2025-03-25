@@ -36,7 +36,7 @@ Have a look around and make yourself at home!</p>
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 
 **AI & Data**  
-![Artificial Intelligence](https://img.shields.io/badge/AI-800080?style=for-the-badge&logo=brain&logoColor=white)  
+![AI](https://img.shields.io/badge/🧠%20AI-brightgreen?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-4B0082?style=for-the-badge&logo=opencv&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
