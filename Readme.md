@@ -11,7 +11,7 @@ Have a look around and make yourself at home!</p>
 
 <h3># 💁🏻‍♀️ Let's connect:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikaleves/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikaengineer/)  
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekaleves@gmail.com?subject=[GitHub])
 
 <br/>
@@ -46,11 +46,14 @@ Have a look around and make yourself at home!</p>
 
 <br/>
 
+<h3># 📚 Currently Learning:</h3>
+
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-FF6F00?style=for-the-badge&logo=code&logoColor=white)  
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-4CAF50?style=for-the-badge&logo=pattern&logoColor=white)
+
+<p>Studying how to write scalable and maintainable code by applying software design principles.</p>
+
+<br/>
+
 <h4>Thanks for stopping by!</h4>
 <p>I'm always learning and excited to collaborate. Let’s build something awesome together!</p>
-
-
-
-
-
-
