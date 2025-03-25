@@ -36,7 +36,7 @@ Have a look around and make yourself at home!</p>
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 
 **AI & Data**  
-![AI](https://img.shields.io/badge/AI-%20-darkgreen?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAARVBMVEX///8AAAD5+fn09PT8/Pzq6urY2NjX19ejo6Orq6vR0dG/v7/f39+UlJSqqqpWVlZ+fn5zc3PX19eOjo6vr6+8vLwVFRWJAAABZ0lEQVQY02XPSw6DIAwF0OnW1m3b0f//RSHSiQSAnJAc+uRMJbH5GJ0Yo0YlDqbsmGHExKgIkeQKVcKlTEYcZBlHcGlV8sBU7nxvhRCHtzIbEFizYoQK8My05oN0Yq6dQ5HWIJvSg7pTjdnXvB9KUlQbkzY94vFwKvtlMRAp2wMS+uSYAlJpp4WzWusDAAAAAElFTkSuQmCC&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-800080?style=for-the-badge&logo=openai&logoColor=white)  
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-4B0082?style=for-the-badge&logo=opencv&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
