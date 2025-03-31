@@ -1,4 +1,4 @@
-![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekaleves&show_icons=true&theme=default)
+![Visitors](https://komarev.com/ghpvc/?username=ekaleves&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 <h1>👩🏻‍💻 Welcome to my GitHub space! 👋🏻</h1>
