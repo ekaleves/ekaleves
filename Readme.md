@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=ekaleves&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ekaleves&icon=0&color=6&label=Profile%20Views)](https://visitcount.itsvg.in)
 
 <h1>👩🏻‍💻 Welcome to my GitHub space! 👋🏻</h1>
 
