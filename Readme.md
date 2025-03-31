@@ -1,4 +1,5 @@
-[![](https://visitcount.itsvg.in/api?id=ekaleves&icon=0&color=6&label=Profile%20Views)](https://visitcount.itsvg.in)
+![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekaleves&show_icons=true&theme=default)
+
 
 <h1>👩🏻‍💻 Welcome to my GitHub space! 👋🏻</h1>
 
