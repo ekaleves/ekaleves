@@ -21,8 +21,11 @@ Have a look around and make yourself at home!</p>
 **Back-end & Databases**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CA5047?style=for-the-badge&logo=sqlalchemy&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)  
 [![OOP](https://img.shields.io/static/v1?label=&message=OOP&color=3333FF&style=for-the-badge)](https://) 
 ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
@@ -50,8 +53,9 @@ Have a look around and make yourself at home!</p>
 
 ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-FF6F00?style=for-the-badge&logo=code&logoColor=white) 
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-4CAF50?style=for-the-badge&logo=pattern&logoColor=white)
+![Application Factory Pattern](https://img.shields.io/badge/Application_Factory_Pattern-008080?style=for-the-badge&logo=blueprint&logoColor=white)
 
-<p>Studying how to write scalable and maintainable code by applying software design principles.</p>
+<p>Studying how to write scalable and maintainable code by applying software design principles like Application Factory and Separation of Concerns in Flask.</p>
 
 <br/>
 
