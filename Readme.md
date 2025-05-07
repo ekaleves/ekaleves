@@ -3,7 +3,7 @@
 
 <h1>👩🏻‍💻 Welcome to my GitHub space! 👋🏻</h1>
 
-<p>Hi, I’m <strong>Erika</strong> — a Junior Python Developer based in Schagen, The Netherlands.</p>
+<p>Hi, I’m <strong>Erika</strong> — a Junior Software Engineer focused on Python, based in Schagen, The Netherlands.</p>
 <p>I’m passionate about building clean, efficient code and always exploring new technologies.  
 Here you’ll find some of my favorite projects, experiments, and work-in-progress ideas.  
 Have a look around and make yourself at home!</p>
